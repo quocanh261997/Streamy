@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "title": "Dragon Ball",
+      "description": "This is an anime",
+      "id": 1
+    },
+    {
+      "title": "Detective Conan",
+      "description": "A detective anime",
+      "userId": "115103630208687517759",
+      "id": 2
+    },
+    {
+      "title": "Naruto",
+      "description": "A very cool ninja anime",
+      "id": 4
+    }
+  ]
+}
